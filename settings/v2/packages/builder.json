@@ -1,0 +1,14 @@
+{
+  "__version__": "1.3.3",
+  "splash-setting": {
+    "url": "/Users/iwae/yangyang/assets/resources/Back/Sp_Cat.png",
+    "displayRatio": 0.55,
+    "clearColor": {
+      "x": 0.8,
+      "y": 0.5725490196078431,
+      "z": 1,
+      "w": 1
+    },
+    "totalTime": 2000
+  }
+}
